@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: '/files/MeganTjandrasuwita_CV.pdf'
+permalink: 'http://megantj.github.io/files/MeganTjandrasuwita_CV.pdf'
 author_profile: true
 redirect_from:
   - /resume
