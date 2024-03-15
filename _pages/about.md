@@ -8,13 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Megan, a first year PhD student in Computer Science at MIT CSAIL, advised by Professor Armando Solar-Lezama. Previously, I obtained my bachelor degree in Computer Science from Caltech where I worked with Professor Yisong Yue. My research interests center at the intersection of deep learning, reasoning, interpretable machine learning, and program synthesis. I seek to design machine learning systems that are human-interpretable, robust, and highly generalizable to difficult tasks with limited data. 
+Hi! I’m Megan, a second year PhD student in Computer Science at MIT CSAIL, advised by Professor Armando Solar-Lezama. Previously, I obtained my bachelor degree in Computer Science from Caltech where I worked with Professor Yisong Yue. My research interests center at the intersection of deep learning, reasoning, interpretable machine learning, and program synthesis. I seek to design machine learning systems that are human-interpretable, robust, and highly generalizable to difficult tasks with limited data. 
 
-I’m grateful to have been supported by the MIT Presidential Fellowship in 2022-2023 and to be supported by the NSF Graduate Research Fellowship (GRFP).
+I’m grateful to be supported by the MIT Presidential Fellowship in 2022-2023 and the NSF Graduate Research Fellowship (GRFP).
 
   
 ## Publications
-[How Can Large Language Models Help Humans in Design and Manufacturing?](https://arxiv.org/abs/2307.14377) Liane Makatura, Michael Foshey, Bohan Wang, Felix HähnLein, Pingchuan Ma, Bolei Deng, **Megan Tjandrasuwita**, Andrew Spielberg, Crystal Elaine Owens, Peter Yichen Chen, Allan Zhao, Amy Zhu, Wil J Norton, Edward Gu, Joshua Jacob, Yifei Li, Adriana Schulz, Wojciech Matusik.
+MeMo: Meaningful, Modular Controllers via Noise Injection  
+**Megan Tjandrasuwita**, Jie Xu, Armando Solar-Lezama, Wojciech Matusik.  
+*In submission to ICML 2024.*
+
+[How Can Large Language Models Help Humans in Design and Manufacturing?](https://arxiv.org/abs/2307.14377)  
+Liane Makatura, Michael Foshey, Bohan Wang, Felix HähnLein, Pingchuan Ma, Bolei Deng, **Megan Tjandrasuwita**, Andrew Spielberg, Crystal Elaine Owens, Peter Yichen Chen, Allan Zhao, Amy Zhu, Wil J Norton, Edward Gu, Joshua Jacob, Yifei Li, Adriana Schulz, Wojciech Matusik.  
 *Harvard Data Science Review 2024*
 
 [ZeroC: A Neuro-Symbolic Model for Zero-shot Concept Recognition and Acquisition at Inference Time](https://arxiv.org/abs/2206.15049)  
