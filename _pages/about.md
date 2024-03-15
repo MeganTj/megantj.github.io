@@ -14,12 +14,12 @@ I’m grateful to be supported by the MIT Presidential Fellowship in 2022-2023 a
 
   
 ## Publications
-MeMo: Meaningful, Modular Controllers via Noise Injection  
-**Megan Tjandrasuwita**, Jie Xu, Armando Solar-Lezama, Wojciech Matusik.  
+MeMo: Meaningful, Modular Controllers via Noise Injection    
+**Megan Tjandrasuwita**, Jie Xu, Armando Solar-Lezama, Wojciech Matusik  
 *In submission to ICML 2024.*
 
 [How Can Large Language Models Help Humans in Design and Manufacturing?](https://arxiv.org/abs/2307.14377)  
-Liane Makatura, Michael Foshey, Bohan Wang, Felix HähnLein, Pingchuan Ma, Bolei Deng, **Megan Tjandrasuwita**, Andrew Spielberg, Crystal Elaine Owens, Peter Yichen Chen, Allan Zhao, Amy Zhu, Wil J Norton, Edward Gu, Joshua Jacob, Yifei Li, Adriana Schulz, Wojciech Matusik.  
+Liane Makatura, Michael Foshey, Bohan Wang, Felix HähnLein, Pingchuan Ma, Bolei Deng, **Megan Tjandrasuwita**, Andrew Spielberg, Crystal Elaine Owens, Peter Yichen Chen, Allan Zhao, Amy Zhu, Wil J Norton, Edward Gu, Joshua Jacob, Yifei Li, Adriana Schulz, Wojciech Matusik  
 *Harvard Data Science Review 2024*
 
 [ZeroC: A Neuro-Symbolic Model for Zero-shot Concept Recognition and Acquisition at Inference Time](https://arxiv.org/abs/2206.15049)  
