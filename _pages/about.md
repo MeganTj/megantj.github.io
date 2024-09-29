@@ -8,15 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Megan, a second year PhD student in Computer Science at MIT CSAIL, advised by Professor Armando Solar-Lezama. Previously, I obtained my bachelor degree in Computer Science from Caltech where I worked with Professor Yisong Yue. My research interests center at the intersection of deep learning, reasoning, interpretable machine learning, and program synthesis. I seek to design machine learning systems that are human-interpretable, robust, and highly generalizable to difficult tasks with limited data. 
+Hi! I’m Megan, a third year PhD student in Computer Science at MIT CSAIL, advised by Professor Armando Solar-Lezama. Previously, I obtained my bachelor degree in Computer Science from Caltech where I worked with Professor Yisong Yue.
+
+My research interests lie at the intersection of deep learning and neuroscience. I aim to design neuro-inspired AI systems that learn reusable, modular representations and generalize with limited amounts of training data / supervision. I'm interested in applications to computer vision, autonomous vehicles, navigation, and behavior analysis.
 
 I’m grateful to be supported by the MIT Presidential Fellowship in 2022-2023 and the NSF Graduate Research Fellowship (GRFP).
 
   
 ## Publications
-MeMo: Meaningful, Modular Controllers via Noise Injection    
+[MeMo: Meaningful, Modular Controllers via Noise Injection](https://arxiv.org/abs/2407.01567)      
 **Megan Tjandrasuwita**, Jie Xu, Armando Solar-Lezama, Wojciech Matusik  
-*In submission to ICML 2024.*
+*NeurIPS 2024*  
+[[code](https://github.com/MeganTj/MeMo)]
+
 
 [How Can Large Language Models Help Humans in Design and Manufacturing?](https://arxiv.org/abs/2307.14377)  
 Liane Makatura, Michael Foshey, Bohan Wang, Felix HähnLein, Pingchuan Ma, Bolei Deng, **Megan Tjandrasuwita**, Andrew Spielberg, Crystal Elaine Owens, Peter Yichen Chen, Allan Zhao, Amy Zhu, Wil J Norton, Edward Gu, Joshua Jacob, Yifei Li, Adriana Schulz, Wojciech Matusik  
