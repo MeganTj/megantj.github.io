@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Megan, a third year PhD student in Computer Science at MIT CSAIL, advised by Professor Armando Solar-Lezama. Previously, I obtained my bachelor degree in Computer Science from Caltech where I worked with Professor Yisong Yue.
+Hi! I’m a third year PhD student in Computer Science at MIT CSAIL, advised by Professor Armando Solar-Lezama. Previously, I completed my bachelor degree in Computer Science from Caltech where I worked with Professor Yisong Yue.
 
-My research interests lie at the intersection of deep learning and neuroscience. I aim to design neuro-inspired AI systems that learn reusable, modular representations and generalize with limited amounts of training data / supervision. I'm interested in applications to computer vision, autonomous vehicles, navigation, and behavior analysis.
-
-I’m grateful to be supported by the MIT Presidential Fellowship in 2022-2023 and the NSF Graduate Research Fellowship (GRFP).
+I’m grateful to be supported by the NSF Graduate Research Fellowship (GRFP) and the MIT Presidential Fellowship in 2022-2023.
 
   
 ## Publications
