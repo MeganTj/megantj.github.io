@@ -14,6 +14,15 @@ I’m grateful to be supported by the NSF Graduate Research Fellowship (GRFP) an
 
   
 ## Publications
+[Understanding the Emergence of Multimodal Representation Alignment](https://arxiv.org/abs/2502.16282)      
+**Megan Tjandrasuwita**, Chanakya Ekbote, Liu Ziyin, Paul Pu Liang  
+*ICLR 2025 Workshop on Representational Alignment (oral)*   
+[[code](https://github.com/MeganTj/multimodal_alignment)]
+
+[Towards Socially-Intelligent Nonverbal Foundation Models](https://arxiv.org/abs/2502.16671)  
+Hengzhi Li, **Megan Tjandrasuwita**, Yi R. Fung, Armando Solar-Lezama, Paul Pu Liang  
+*In submission to ACL 2025*  
+
 [MeMo: Meaningful, Modular Controllers via Noise Injection](https://arxiv.org/abs/2407.01567)      
 **Megan Tjandrasuwita**, Jie Xu, Armando Solar-Lezama, Wojciech Matusik  
 *NeurIPS 2024*  
