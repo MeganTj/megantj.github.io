@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m a third year PhD student in Computer Science at MIT CSAIL, advised by Professor Paul   Liang and Armando Solar-Lezama. Previously, I completed my bachelor degree in Computer Science from Caltech where I worked with Professor Yisong Yue.
+Hi! I’m a third year PhD student in Computer Science at MIT CSAIL, advised by Professors Paul Liang and Armando Solar-Lezama. Previously, I completed my bachelor degree in Computer Science from Caltech where I worked with Professor Yisong Yue.
 
 I’m grateful to be supported by the NSF Graduate Research Fellowship (GRFP) and the MIT Presidential Fellowship in 2022-2023.
 
