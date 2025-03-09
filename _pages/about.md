@@ -16,7 +16,7 @@ I’m grateful to be supported by the NSF Graduate Research Fellowship (GRFP) an
 ## Publications
 [Understanding the Emergence of Multimodal Representation Alignment](https://arxiv.org/abs/2502.16282)      
 **Megan Tjandrasuwita**, Chanakya Ekbote, Liu Ziyin, Paul Pu Liang  
-*ICML 2025, ICLR 2025 Workshop on Representational Alignment (oral)*   
+*In submission to ICML 2025, ICLR 2025 Workshop on Representational Alignment (oral)*   
 [[code](https://github.com/MeganTj/multimodal_alignment)]
 
 [Towards Socially-Intelligent Nonverbal Foundation Models](https://arxiv.org/abs/2502.16671)  
