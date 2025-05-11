@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m a third year PhD student in Computer Science at MIT CSAIL, advised by Professors Paul Liang and Armando Solar-Lezama. Previously, I completed my bachelor degree in Computer Science from Caltech where I worked with Professor Yisong Yue.
+Hi! I’m a third year PhD student in Computer Science at MIT CSAIL, advised by Professors Paul Liang and Armando Solar-Lezama. Previously, I completed my bachelor degree in Computer Science from Caltech where I worked with Professor Yisong Yue. My research focuses on aligning vision, text, and code to enhance multimodal perception and reasoning in foundation models. I am highly interested in downstream applications including spatial reasoning, chart understanding, and behavior analysis. 
 
 I’m grateful to be supported by the NSF Graduate Research Fellowship (GRFP) and the MIT Presidential Fellowship in 2022-2023.
 
@@ -16,7 +16,7 @@ I’m grateful to be supported by the NSF Graduate Research Fellowship (GRFP) an
 ## Publications
 [Understanding the Emergence of Multimodal Representation Alignment](https://arxiv.org/abs/2502.16282)      
 **Megan Tjandrasuwita**, Chanakya Ekbote, Liu Ziyin, Paul Pu Liang  
-*In submission to ICML 2025, ICLR 2025 Workshop on Representational Alignment (oral)*   
+*ICML 2025, ICLR 2025 Workshop on Representational Alignment (oral)*   
 [[code](https://github.com/MeganTj/multimodal_alignment)]
 
 [Towards Socially-Intelligent Nonverbal Foundation Models](https://arxiv.org/abs/2502.16671)  
