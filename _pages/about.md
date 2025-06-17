@@ -19,9 +19,15 @@ I’m grateful to be supported by the NSF Graduate Research Fellowship (GRFP) an
 *ICML 2025, ICLR 2025 Workshop on Representational Alignment (oral)*   
 [[code](https://github.com/MeganTj/multimodal_alignment)]
 
+[PuzzleWorld: A Benchmark for Multimodal, Open-Ended Reasoning in Puzzle Hunts](https://arxiv.org/abs/2506.06211)  
+Hengzhi Li, Brendon Jiang, Alexander Naehu, Regan Song, Justin Zhang, **Megan Tjandrasuwita**, Chanakya Ekbote, Steven-Shine Chen, Adithya Balachandran, Wei Dai, Rebecca Chang, Paul Pu Liang  
+*In submission to NeurIPS 2025*  
+[[code](https://github.com/MIT-MI/PuzzleWorld)]
+
 [Towards Socially-Intelligent Nonverbal Foundation Models](https://arxiv.org/abs/2502.16671)  
 Hengzhi Li, **Megan Tjandrasuwita**, Yi R. Fung, Armando Solar-Lezama, Paul Pu Liang  
-*In submission to ACL 2025*  
+*In submission to NeurIPS 2025*  
+[[code](https://github.com/MIT-MI/MimeQA)]
 
 [MeMo: Meaningful, Modular Controllers via Noise Injection](https://arxiv.org/abs/2407.01567)      
 **Megan Tjandrasuwita**, Jie Xu, Armando Solar-Lezama, Wojciech Matusik  
@@ -36,7 +42,7 @@ Liane Makatura, Michael Foshey, Bohan Wang, Felix HähnLein, Pingchuan Ma, Bolei
 [ZeroC: A Neuro-Symbolic Model for Zero-shot Concept Recognition and Acquisition at Inference Time](https://arxiv.org/abs/2206.15049)  
 Tailin Wu, **Megan Tjandrasuwita**, Zhengxuan Wu, Xuelin Yang, Kevin Liu, Rok Sosic, Jure Leskovec  
 *NeurIPS 2022*, *ICML 2022 Beyond Bayes Workshop*  
-[[code]](https://github.com/snap-stanford/zeroC)
+[[code](https://github.com/snap-stanford/zeroC)]
 
 [Neurosymbolic Programming for Science](https://arxiv.org/abs/2210.05050)  
 Jennifer J. Sun\*, **Megan Tjandrasuwita**\*, Atharva Sehgal\*, Armando Solar-Lezama, Swarat Chaudhuri, Yisong Yue, Omar Costilla-Reyes  
