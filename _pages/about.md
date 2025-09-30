@@ -14,19 +14,24 @@ I’m grateful to be supported by the NSF Graduate Research Fellowship (GRFP) an
 
   
 ## Publications
+ChartRef: Benchmarking Fine-Grained Visual Element Localization in Charts  
+**Megan Tjandrasuwita**, Paul Pu Liang, Armando Solar-Lezama  
+*In submission to ICLR 2026*  
+Preprint and code release coming soon!
+
+[PuzzleWorld: A Benchmark for Multimodal, Open-Ended Reasoning in Puzzle Hunts](https://arxiv.org/abs/2506.06211)  
+Hengzhi Li, Brendon Jiang, Alexander Naehu, Regan Song, Justin Zhang, **Megan Tjandrasuwita**, Chanakya Ekbote, Steven-Shine Chen, Adithya Balachandran, Wei Dai, Rebecca Chang, Paul Pu Liang  
+*In submission to ICLR 2026*  
+[[code](https://github.com/MIT-MI/PuzzleWorld)]
+
 [Understanding the Emergence of Multimodal Representation Alignment](https://arxiv.org/abs/2502.16282)      
 **Megan Tjandrasuwita**, Chanakya Ekbote, Liu Ziyin, Paul Pu Liang  
 *ICML 2025, ICLR 2025 Workshop on Representational Alignment (oral)*   
 [[code](https://github.com/MeganTj/multimodal_alignment)]
 
-[PuzzleWorld: A Benchmark for Multimodal, Open-Ended Reasoning in Puzzle Hunts](https://arxiv.org/abs/2506.06211)  
-Hengzhi Li, Brendon Jiang, Alexander Naehu, Regan Song, Justin Zhang, **Megan Tjandrasuwita**, Chanakya Ekbote, Steven-Shine Chen, Adithya Balachandran, Wei Dai, Rebecca Chang, Paul Pu Liang  
-*In submission to NeurIPS 2025*  
-[[code](https://github.com/MIT-MI/PuzzleWorld)]
-
 [Towards Socially-Intelligent Nonverbal Foundation Models](https://arxiv.org/abs/2502.16671)  
 Hengzhi Li, **Megan Tjandrasuwita**, Yi R. Fung, Armando Solar-Lezama, Paul Pu Liang  
-*In submission to NeurIPS 2025*  
+*NeurIPS 2025*  
 [[code](https://github.com/MIT-MI/MimeQA)]
 
 [MeMo: Meaningful, Modular Controllers via Noise Injection](https://arxiv.org/abs/2407.01567)      
